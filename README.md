@@ -1,2 +1,1 @@
-# opendatasetml
-a website for dataset index
+its a website for colletion of datasets to train open source models
