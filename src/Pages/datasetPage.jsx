@@ -1,5 +1,5 @@
-import Navbar from './navbar.jsx';
-import CardDataset from './CardDataSet.jsx';
+import Navbar from '../Components/navbar.jsx';
+import CardDataset from '../Components/CardDataSet.jsx';
 import { Box, Grid } from '@mui/material';
 
 const styles = {
