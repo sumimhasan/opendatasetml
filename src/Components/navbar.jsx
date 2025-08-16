@@ -58,7 +58,7 @@ export default function Navbar() {
         sx={{ mt: 2, borderRadius: 1 }}
         fullWidth
       >
-        Sign Up
+        Pull
       </Button>
     </Box>
   );
@@ -87,9 +87,6 @@ export default function Navbar() {
                   {item}
                 </Button>
               ))}
-              <Button variant="contained" color="secondary">
-                Sign Up
-              </Button>
             </Box>
           )}
         </Toolbar>
