@@ -1,0 +1,86 @@
+{
+    "set1": {
+        "name": "Common Pile v0.1",
+        "description": "8TB dataset from 30 sources, including books, code, and academic papers.",
+        "link": "https://arxiv.org/abs/2506.05209",
+        "size": "8TB",
+        "token": "2T tokens"
+    },
+    "set2": {
+        "name": "Harvard Institutional Data Initiative",
+        "description": "Collection of nearly 1 million public-domain books spanning over 250 languages.",
+        "link": "https://www.wired.com/story/harvard-ai-training-dataset-openai-microsoft",
+        "size": "Not specified",
+        "token": "242B tokens"
+    },
+    "set3": {
+        "name": "The Pile",
+        "description": "800GB dataset from 22 diverse sources, including academic papers and books.",
+        "link": "https://github.com/EleutherAI/the-pile",
+        "size": "800GB",
+        "token": "825B tokens"
+    },
+    "set4": {
+        "name": "C4 (Colossal Clean Crawled Corpus)",
+        "description": "750GB English corpus derived from Common Crawl, cleaned and deduplicated.",
+        "link": "https://www.tensorflow.org/datasets/community_catalog/huggingface/c4",
+        "size": "750GB",
+        "token": "750B tokens"
+    },
+    "set5": {
+        "name": "RefinedWeb",
+        "description": "High-quality, deduplicated subset of Common Crawl, containing over 5 trillion tokens.",
+        "link": "https://kili-technology.com/large-language-models-llms/9-open-sourced-datasets-for-training-large-language-models",
+        "size": "Not specified",
+        "token": "600B tokens"
+    },
+    "set6": {
+        "name": "BookCorpus",
+        "description": "Dataset of over 11,000 unpublished books, primarily fiction.",
+        "link": "https://github.com/soskek/bookcorpus",
+        "size": "Not specified",
+        "token": "1B tokens"
+    },
+    "set7": {
+        "name": "OpenWebText",
+        "description": "Web content dataset curated to resemble Reddit submissions.",
+        "link": "https://huggingface.co/datasets/Skylion007/openwebtext",
+        "size": "55.21GB",
+        "token": "41.7B tokens"
+    },
+    "set8": {
+        "name": "Starcoder",
+        "description": "Dataset of 783GB of code in 86 programming languages, including GitHub Issues and Jupyter notebooks.",
+        "link": "https://huggingface.co/datasets/bigcode/starcoderdata",
+        "size": "783GB",
+        "token": "250B tokens"
+    },
+    "set9": {
+        "name": "Vidhai (Tamil Language Dataset)",
+        "description": "High-quality, large-scale Tamil language dataset comprising original texts like books and essays.",
+        "link": "https://timesofindia.indiatimes.com/city/chennai/cut-through-clutter-tamil-dataset-to-train-ai-models/articleshow/122155780.cms",
+        "size": "Not specified",
+        "token": "Not specified"
+    },
+    "set10": {
+        "name": "OpenWebText2",
+        "description": "Deduplicated web content dataset filtered by Reddit score and document-level deduplication.",
+        "link": "https://openwebtext2.readthedocs.io/",
+        "size": "79GB compressed",
+        "token": "65.86GB uncompressed text"
+    },
+    "set11": {
+        "name": "Dolma",
+        "description": "Dataset of 3 trillion tokens from a mix of web content, academic publications, code, and books.",
+        "link": "https://allenai.org/blog/dolma-3-trillion-tokens-open-llm-corpus-9a0ff4b8da64",
+        "size": "Not specified",
+        "token": "3T tokens"
+    },
+    "set12": {
+        "name": "Common Corpus",
+        "description": "Largest open dataset for LLM pre-training at about 2 trillion tokens, available in multiple languages.",
+        "link": "https://arxiv.org/html/2506.01732v1",
+        "size": "Not specified",
+        "token": "2T tokens"
+    }
+}

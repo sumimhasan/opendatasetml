@@ -1,0 +1,37 @@
+{
+    "cset1": {
+        "name": "MSYS-Chat-1M",
+        "description": "1 million real-world conversations with 25 LLMs, collected from 210K unique IPs.",
+        "link": "https://huggingface.co/datasets/lmsys/lmsys-chat-1m",
+        "size": "Not specified",
+        "token": "Not specified"
+    },
+    "cset2": {
+        "name": "CoQA",
+        "description": "127K conversational question-answer pairs across 8K dialogues from 7 domains.",
+        "link": "https://arxiv.org/abs/1808.07042",
+        "size": "Not specified",
+        "token": "Not specified"
+    },
+    "cset3": {
+        "name": "The Gutenberg Dialogue Dataset",
+        "description": "14.8M English dialogues extracted from public-domain books.",
+        "link": "https://arxiv.org/abs/2004.12752",
+        "size": "Not specified",
+        "token": "Not specified"
+    },
+    "cset4": {
+        "name": "Pchatbot",
+        "description": "Large-scale dataset with anonymized user IDs and timestamps for personalized chatbots.",
+        "link": "https://arxiv.org/abs/2009.13284",
+        "size": "Not specified",
+        "token": "Not specified"
+    },
+    "cset5": {
+        "name": "Bitext Customer Support Dataset",
+        "description": "26,872 QA pairs across 27 intents and 10 categories for customer service chatbots.",
+        "link": "https://huggingface.co/datasets/bitext/Bitext-customer-support-llm-chatbot-training-dataset",
+        "size": "Not specified",
+        "token": "Not specified"
+    }
+}
